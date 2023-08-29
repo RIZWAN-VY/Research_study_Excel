@@ -9,3 +9,13 @@ This repository contains the materials and documentation related to a research s
   * __Data Collection:__ A survey was conducted to gather data and collected data was stored in an Excel spreadsheet.
   * __Data Analysis:__ Microsoft Excel was utilized to perform data analysis using Pivot tables and charts. This helped in identifying trends and patterns in payment preferences.
   * __Data Visualization:__ A visually appealing dashboard was developed in Excel to present the analyzed data in an easily understandable format.
+
+
+> ### SKILLS UTILIZED
+Microsoft Excel
+Research Skills
+Data Collection
+Data Analysis
+Pivot Tables
+Data Visualization
+Dashboard Creation
