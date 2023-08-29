@@ -12,10 +12,10 @@ This repository contains the materials and documentation related to a research s
 
 
 > ### SKILLS UTILIZED
-Microsoft Excel
-Research Skills
-Data Collection
-Data Analysis
-Pivot Tables
-Data Visualization
-Dashboard Creation
+> - Microsoft Excel
+> - Research Skills
+> - Data Collection
+> - Data Analysis
+> - Pivot Tables
+> - Data Visualization
+> - Dashboard Creation
