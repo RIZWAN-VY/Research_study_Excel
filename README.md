@@ -21,3 +21,5 @@ This repository contains the materials and documentation related to a research s
 > - Dashboard Creation
 
 ### DASHBOARD :
+![Dashboard_image_excel](https://github.com/RIZWAN-VY/Research_study_Excel/assets/131337205/2c816239-4238-46b0-b28e-b1358369578e)
+
