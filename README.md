@@ -11,14 +11,14 @@ This repository contains the materials and documentation related to a research s
   * __Data Visualization:__ A visually appealing dashboard was developed in Excel to present the analyzed data in an easily understandable format.
 
 
-> ### SKILLS UTILIZED
-> - Microsoft Excel
-> - Research Skills
-> - Data Collection
-> - Data Analysis
-> - Pivot Tables
-> - Data Visualization
-> - Dashboard Creation
+ ### SKILLS UTILIZED
+ - Microsoft Excel
+ - Research Skills
+ - Data Collection
+ - Data Analysis
+ - Pivot Tables
+ - Data Visualization
+ - Dashboard Creation
 
 ### DASHBOARD :
 ![Dashboard_image_excel](https://github.com/RIZWAN-VY/Research_study_Excel/assets/131337205/2c816239-4238-46b0-b28e-b1358369578e)
